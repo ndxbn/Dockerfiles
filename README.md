@@ -1,5 +1,5 @@
 # Dockerfiles
 
-さなボタン(2) で使う Dockerfiles
+My Dockerfiles
 
-ISSUE は https://github.com/sanabutton/sanabutton.github.io/issues で管理しています。
+I manage ISSUE in https://github.com/ndxbn/ndxbn/issues
